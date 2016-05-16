@@ -9,7 +9,7 @@ namespace TestGit
     {
         public static int GetNumber()
         {
-            return 4321;
+            return 41;
         }
         public static int GetNumber2()
         {
